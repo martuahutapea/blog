@@ -1,0 +1,9 @@
+.pager li .active_link {
+  background: lightgrey !important;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
